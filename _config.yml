@@ -1,6 +1,6 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
+title: Sagacia Soft
+email: contact@sagaciasoft.com
 baseurl:  /grayscale-theme
 url: https://brittleigh.github.io
 description: A sagacious individual once said, "Writing software takes sagacity, possibly even sagacia."
@@ -11,20 +11,22 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Sagacia Soft
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/yoans
+  - title: facebook
+    url: https://www.facebook.com/youngmanathan
+  - title: linkedin
+    url: https://www.linkedin.com/in/nathaniel-young-b1033a18/
+  - title: instagram
+    url: https://www.instagram.com/nathanyoans/
+  - title: steam
+    url: https://steamcommunity.com/id/yoans
+  - title: soundcloud
+    url: https://soundcloud.com/nathaniel-pierce-young
 
 # Build settings
 markdown: kramdown
