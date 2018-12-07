@@ -1,9 +1,9 @@
 # Site settings
 title: Sagacia Soft
-email: your-email@domain.com
+email: contact@sagaciasoft.com
 baseurl:  /grayscale-theme
 url: https://brittleigh.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "A sagacious individual once said, "Writing software takes sagacity, possibly even sagacia.""
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,16 +15,18 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  - title: github
+    url: 
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: 
+  - title: instagram
+    url: 
+  - title: steam
+    url: 
+  - title: soundcloud
+    url:
 
 # Build settings
 markdown: kramdown
