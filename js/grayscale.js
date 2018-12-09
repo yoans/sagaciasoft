@@ -37,63 +37,63 @@ $("a").mouseup(function(){
 
 // Google Maps Scripts
 // When the window has finished loading create our google map below
-google.maps.event.addDomListener(window, 'load', init);
+//google.maps.event.addDomListener(window, 'load', init);
 
-function init() {
+//function init() {
     // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
-    var mapOptions = {
+   // var mapOptions = {
         // How zoomed in you want the map to start at (always required)
-        zoom: 15,
+     //   zoom: 15,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(41.5772°, 93.7113°), // New York
+     //   center: new google.maps.LatLng(41.5772°, 93.7113°), // New York
 
         // Disables the default Google Maps UI components
-        disableDefaultUI: true,
-        scrollwheel: false,
-        draggable: false,
-
+     //   disableDefaultUI: true,
+     //   scrollwheel: false,
+    //    draggable: false,
+//
         // How you would like to style the map. 
         // This is where you would paste any style found on Snazzy Maps.
-        styles: [{
-            "featureType": "water",
-            "elementType": "geometry",
-            "stylers": [{
-                "color": "#000000"
-            }, {
-                "lightness": 17
-            }]
-        }, {
-            "featureType": "landscape",
-            "elementType": "geometry",
-            "stylers": [{
-                "color": "#000000"
-            }, {
-                "lightness": 20
-            }]
-        }, {
-            "featureType": "road.highway",
-            "elementType": "geometry.fill",
-            "stylers": [{
-                "color": "#000000"
-            }, {
-                "lightness": 17
-            }]
-        }, {
-            "featureType": "road.highway",
-            "elementType": "geometry.stroke",
-            "stylers": [{
-                "color": "#000000"
-            }, {
-                "lightness": 29
-            }, {
-                "weight": 0.2
-            }]
-        }, {
-            "featureType": "road.arterial",
-            "elementType": "geometry",
-            "stylers": [{
+      //  styles: [{
+        //    "featureType": "water",
+          //  "elementType": "geometry",
+            //"stylers": [{
+              //  "color": "#000000"
+            //}, {
+              //  "lightness": 17
+            //}]
+//        }, {
+  //          "featureType": "landscape",
+    //        "elementType": "geometry",
+      //      "stylers": [{
+       //         "color": "#000000"
+         //   }, {
+           //     "lightness": 20
+            //}]
+//        }, {
+  //          "featureType": "road.highway",
+    //        "elementType": "geometry.fill",
+      //      "stylers": [{
+        //        "color": "#000000"
+          //  }, {
+            //    "lightness": 17
+            //}]
+//        }, {
+  //          "featureType": "road.highway",
+    //        "elementType": "geometry.stroke",
+      //      "stylers": [{
+        //        "color": "#000000"
+          //  }, {
+            //    "lightness": 29
+ //           }, {
+   //             "weight": 0.2
+     //       }]
+       // }, {
+         //   "featureType": "road.arterial",
+           // "elementType": "geometry",
+/*            "stylers": [{
                 "color": "#000000"
             }, {
                 "lightness": 18
@@ -181,4 +181,4 @@ function init() {
         map: map,
         icon: image
     });
-}
+} */
