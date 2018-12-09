@@ -13,12 +13,12 @@
                 var timer;
                 $(window).scroll(function (e) {
                     clearTimeout(timer);
-                    $('.fa-refresh').addClass('fa-spin');
+                    $('.fa-play-circle').addClass('fa-spin');
                     timer = setTimeout(checkStop, 150);
                 });
 
                 function checkStop() {
-                    $('.fa-refresh').removeClass('fa-spin');
+                    $('.fa-play-circle').removeClass('fa-spin');
                 } </script>
         </div>
 
