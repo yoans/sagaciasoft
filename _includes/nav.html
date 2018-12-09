@@ -11,7 +11,8 @@
             </a>
             <script>
                 var timer;
-                $(window).scroll(function (e) {
+                jQuery(window).scroll(function (e) {
+                    console.log("spin right round");
                     clearTimeout(timer);
                     $('.fa-play-circle').addClass('fa-spin');
                     timer = setTimeout(checkStop, 150);
