@@ -1,8 +1,8 @@
 # Site settings
 title: Sagacia Soft
 email: contact@sagaciasoft.com
-baseurl: /grayscale-theme
-url: https://brittleigh.github.io
+baseurl:
+url: https://sagaciasoft.com
 description: A sagacious individual once said, "Writing software takes sagacity, possibly even sagacia."
 
 # Color settings (hex-codes without the leading hash-tag)
