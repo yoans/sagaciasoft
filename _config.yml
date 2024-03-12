@@ -1,5 +1,5 @@
 # Site settings
-title: Sagacia Soft
+title: Sagaciasoft
 email: contact@sagaciasoft.com
 baseurl:
 url: https://sagaciasoft.com
@@ -11,7 +11,7 @@ color:
   links: '#9f11d4'
 
 # Footer settings
-footer: Sagacia Soft
+footer: Sagaciasoft
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
